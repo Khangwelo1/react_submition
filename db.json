@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "Question": "king",
+      "id": 1
+    }
+  ],
+  "submit-answers": [
+    [
+      {
+        "questionId": "1",
+        "answer": "agree"
+      },
+      {
+        "questionId": "2",
+        "answer": "disagree"
+      }
+    ],
+    [
+      {
+        "questionId": "1",
+        "answer": "neutral"
+      },
+      {
+        "questionId": "2",
+        "answer": "agree"
+      }
+    ],
+    [
+      {
+        "questionId": "1",
+        "answer": "neutral"
+      },
+      {
+        "questionId": "2",
+        "answer": "neutral"
+      }
+    ],
+    [
+      {
+        "questionId": "1",
+        "answer": "neutral"
+      },
+      {
+        "questionId": "2",
+        "answer": "disagree"
+      },
+      {
+        "questionId": "3",
+        "answer": "agree"
+      }
+    ]
+  ]
+}
